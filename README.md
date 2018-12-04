@@ -4,10 +4,10 @@ This repository houses some of my rudimentary python implementation for the [AoC
 
 ## Event List
 
-- [Day 1: Chronal Calibration](01/README.md)
-- [Day 2: Inventory Management System](02/README.md)
-- [Day 3: No Matter How You Slice It](03/README.md)
-- [Day 4: Chronal Calibration](04/README.md)
+- [Day 1: Chronal Calibration](/01)
+- [Day 2: Inventory Management System](/02)
+- [Day 3: No Matter How You Slice It](/03)
+- [Day 4: Repose Record](/04)
 
 ## AoC Calendar 
 <main>
@@ -32,10 +32,10 @@ This repository houses some of my rudimentary python implementation for the [AoC
 <span class="calendar-day7">       / / /\|                                     <span class="calendar-day"> 7</span></span>
 <span class="calendar-day6">     / / | \ *                                     <span class="calendar-day"> 6</span></span>
 <span class="calendar-day5">    /  /  \ \                                      <span class="calendar-day"> 5</span>
-<a href="/2018/day/4" class="calendar-day4 calendar-verycomplete">   / /  / \  \                                     <span class="calendar-day"> 4</span> <span class="calendar-mark-complete">*</span><span class="calendar-mark-verycomplete">*</span></a>
-<a href="/2018/day/3" class="calendar-day3 calendar-verycomplete"> ./~~~~~~~~~~~\.                                   <span class="calendar-day"> 3</span> <span class="calendar-mark-complete">*</span><span class="calendar-mark-verycomplete">*</span></a>
-<a href="/2018/day/2" class="calendar-day2 calendar-verycomplete">( .&quot;,^. -&quot;. '.~ )                                  <span class="calendar-day"> 2</span> <span class="calendar-mark-complete">*</span><span class="calendar-mark-verycomplete">*</span></a>
-<a href="/2018/day/1" class="calendar-day1 calendar-verycomplete">_'~~~~~~~~~~~~~'_________ ___ __ _  _   _    _     <span class="calendar-day"> 1</span> <span class="calendar-mark-complete">*</span><span class="calendar-mark-verycomplete">*</span></a>
+<a href="/04" class="calendar-day4 calendar-verycomplete">   / /  / \  \                                     <span class="calendar-day"> 4</span> <span class="calendar-mark-complete">*</span><span class="calendar-mark-verycomplete">*</span></a>
+<a href="/03" class="calendar-day3 calendar-verycomplete"> ./~~~~~~~~~~~\.                                   <span class="calendar-day"> 3</span> <span class="calendar-mark-complete">*</span><span class="calendar-mark-verycomplete">*</span></a>
+<a href="/02" class="calendar-day2 calendar-verycomplete">( .&quot;,^. -&quot;. '.~ )                                  <span class="calendar-day"> 2</span> <span class="calendar-mark-complete">*</span><span class="calendar-mark-verycomplete">*</span></a>
+<a href="/01" class="calendar-day1 calendar-verycomplete">_'~~~~~~~~~~~~~'_________ ___ __ _  _   _    _     <span class="calendar-day"> 1</span> <span class="calendar-mark-complete">*</span><span class="calendar-mark-verycomplete">*</span></a>
 </pre>
 
 [view-source:https://adventofcode.com/2018](https://adventofcode.com/2018)
