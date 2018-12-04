@@ -1,6 +1,6 @@
-# Day 1
+# Day 1: Chronal Calibration
 
-## Part 1: Chronal Calibration
+## Part 01
 
 "We've detected some temporal anomalies," one of Santa's Elves at the Temporal Anomaly Research and Detection Instrument Station tells you. She sounded pretty worried when she called you down here. "At 500-year intervals into the past, someone has been changing Santa's history!"
 
@@ -29,11 +29,11 @@ Here are other example situations:
   
 Starting with a frequency of zero, **what is the resulting frequency** after all of the changes in frequency have been applied?
 
-### Answer
+### Answer 01
 
 510
 
-## Part Two
+## Part 02
 
 You notice that the device repeats the same frequency change list over and over. To calibrate the device, you need to find the first frequency it reaches twice.
 
@@ -58,5 +58,6 @@ Here are other examples:
   
 What is the first frequency your device reaches twice?
 
-### Answer
+### Answer 02
+
 69074

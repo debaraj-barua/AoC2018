@@ -1,6 +1,6 @@
-# Day 2
+# Day 2: Inventory Management System
 
-## Part 1: Inventory Management System
+## Part 01
 
 You stop falling through time, catch your breath, and check the screen on the device. "Destination reached. Current Year: 1518. Current Location: North Pole Utility Closet 83N10." You made it! Now, to find those anomalies.
 
@@ -26,11 +26,11 @@ Of these box IDs, four of them contain a letter which appears exactly twice, and
 
 **What is the checksum** for your list of box IDs?
 
-### Answer 1
+### Answer 01
 
 6225
 
-## Part 2
+## Part 02
 
 Confident that your list of box IDs is complete, you're ready to find the boxes full of prototype fabric.
 
@@ -47,6 +47,6 @@ The IDs `abcde` and `axcye` are close, but they differ by two characters (the se
 
 What letters are common between the two correct box IDs? (In the example above, this is found by removing the differing character from either ID, producing `fgij`.)
 
-### Answer 2
+### Answer 02
 
 `revtaubfniyhsgxdoajwkqilp`
